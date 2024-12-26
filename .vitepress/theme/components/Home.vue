@@ -15,11 +15,11 @@ onMounted(load)
   <section id="hero">
     <img id="uwu" alt="Vue.js Kawaii Logo by @icarusgkx" />
     <h1 class="tagline">
-      <span class="accent">渐进式</span>
-      <br />JavaScript 框架
+      <span class="accent">黑暗之莲</span>
+      <br />DarkLotus
     </h1>
     <p class="description">
-      易学易用，性能出色，适用场景丰富的 Web 前端框架。
+      有时间就要学习
     </p>
     <p class="actions">
       <!-- NOTE: hide the home video -->
@@ -123,9 +123,9 @@ onMounted(load)
   </section>
 
   <section id="sponsors">
-    <h2>Platinum Sponsors</h2>
+    <h2>铂金赞助商</h2>
     <SponsorsGroup tier="platinum" placement="landing" />
-    <h2>Gold Sponsors</h2>
+    <h2>金牌赞助商</h2>
     <SponsorsGroup tier="gold" placement="landing" />
   </section>
 

@@ -603,7 +603,7 @@ export default defineConfigWithTheme<ThemeConfig>({
   },
 
   lang: 'zh-CN',
-  title: 'Vue.js',
+  title: 'DarkLotus',
   description: 'Vue.js - 渐进式的 JavaScript 框架',
   srcDir: 'src',
   srcExclude: ['tutorial/**/description.md'],
@@ -679,7 +679,7 @@ export default defineConfigWithTheme<ThemeConfig>({
       {
         link: 'https://vuejs.org',
         text: 'English',
-        repo: 'https://github.com/vuejs/docs'
+        repo: 'https://github.com/lianlianlianlianlianlian/docs'
       },
       {
         link: 'https://ja.vuejs.org',
@@ -796,8 +796,8 @@ export default defineConfigWithTheme<ThemeConfig>({
     // },
 
     socialLinks: [
-      { icon: 'github', link: 'https://github.com/vuejs/' },
-      { icon: 'twitter', link: 'https://twitter.com/vuejs' },
+      { icon: 'github', link: 'https://github.com/lianlianlianlianlianlian' },
+      { icon: 'twitter', link: 'https://twitter.com/dinglianlian' },
       { icon: 'discord', link: 'https://discord.com/invite/vue' }
     ],
 
